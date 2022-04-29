@@ -1,4 +1,4 @@
-package com.trainticketbookingapp.trainticketbookingappapi;
+package com.trainticketbookingapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -8,6 +8,7 @@ public class TrainticketbookingappApiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TrainticketbookingappApiApplication.class, args);
+
 	}
 
 }
